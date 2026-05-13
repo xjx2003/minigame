@@ -1,0 +1,18 @@
+{
+  "name": "贪吃蛇进化版",
+  "short_name": "贪吃蛇",
+  "description": "贪吃蛇进化版 - 支持多种食物、难度选择和粒子特效",
+  "start_url": ".",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#141423",
+  "theme_color": "#141423",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["games", "arcade"]
+}
